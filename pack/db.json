@@ -30,7 +30,7 @@
             "description": {
                 "en": "Hello everyone! This is Chart Teardrop, a Sonolus server dedicated to SEKAI! Now I don't have that much to say (but a little bit of everything else), but just thank you all! See you soon ;)"
            },
-            "cover": {
+            "thumbnail": {
                 "hash": "",
                 "url": "/sonolus/repository/cover1.png"
             },
