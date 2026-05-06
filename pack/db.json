@@ -6,6 +6,10 @@
         "description": {
             "en": "Every SEKAI has its own individual feeling; a teardrop."
         },
+        "banner": {
+            "hash": "",
+            "url": "/sonolus/repository/banner.png"
+        },
         "buttons": [
             {
                 "type": "post"
