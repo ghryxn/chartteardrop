@@ -16,7 +16,23 @@
             }
         ]
     },
-    "posts": [],
+    "posts": [
+        {
+           "name": "chartt-post1",
+           "version": 1,
+          "title": {
+              "en": "Chart Teardrop's Sunrise"
+           },
+           "time": 1000,
+           "author": {
+               "en": "chart.denver"
+           },
+            "description": {
+                "en": "Hello everyone! This is Chart Teardrop, a Sonolus server dedicated to SEKAI! Now I don't have that much to say (but a little bit of everything else), but just thank you all! See you soon ;)"
+           },
+            "tags": []
+        }
+    ],
     "playlists": [],
     "levels": [],
     "skins": [],
