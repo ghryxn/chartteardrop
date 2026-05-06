@@ -1,1 +1,1 @@
-{"title":"Chart Teardrop","description":"Every SEKAI has its own individual feeling; a teardrop.","buttons":[{"type":"post"}],"configuration":{"options":[]},"banner":{"hash":"","url":"/sonolus/repository/banner.png"}}
+{"title":"Chart Teardrop","description":"Every SEKAI has its own individual feeling; a teardrop.","buttons":[{"type":"post"}],"configuration":{"options":[{"query":"notify","name":"Post Updates","description":"Be notified of any new posts from Chart Teardrop?","type":"toggle","def":false}]},"banner":{"hash":"","url":"/sonolus/repository/banner.png"}}
