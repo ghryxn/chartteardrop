@@ -1,0 +1,24 @@
+{
+    "info": {
+        "title": {
+            "en": "Chart Teardrop"
+        },
+        "description": {
+            "en": "Every SEKAI has its own individual feeling; a teardrop."
+        },
+        "buttons": [
+            {
+                "type": "post"
+            }
+        ]
+    },
+    "posts": [],
+    "playlists": [],
+    "levels": [],
+    "skins": [],
+    "backgrounds": [],
+    "effects": [],
+    "particles": [],
+    "engines": [],
+    "replays": []
+}
